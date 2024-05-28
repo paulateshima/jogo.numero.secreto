@@ -1,4 +1,4 @@
-<h1 align="center">Jogo do Número Secreto</h1>
+<h1 align="center">Projeto #3 - Jogo do Número Secreto</h1>
 
 ![Captura de Tela 2024-05-28 às 19 14 00](https://github.com/paulateshima/jogo.numero.secreto/assets/170154538/24e274d6-0de1-4c5b-afa8-81b6742a1fc9)
 
@@ -10,7 +10,7 @@
 4. Veja em quantas tentativas o número secreto foi descoberto.
 5. Clique em 'Novo Jogo' para jogar novamente.
 
-## Técnicas e Tecnologias Utilizadas:
+## Técnicas e Tecnologias Utilizadas: 
 
 * HTML
 * CSS
@@ -27,6 +27,10 @@ Concluído 😀
 
 Projeto realizado no Curso da Alura - Lógica de Programação: Explore Funções e Listas
 
+## Licença:
+
+Este Projeto está sob a licença MIT.
+
 ## Acesso ao Projeto:
 
-Você pode acessar este Jogo [aqui](https://jogo-numero-secreto-chi-taupe.vercel.app/)
+Você pode acessar este Jogo 👉 [aqui](https://jogo-numero-secreto-chi-taupe.vercel.app/)
