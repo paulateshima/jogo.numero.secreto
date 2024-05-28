@@ -1,6 +1,6 @@
 <h1 align="center">Jogo do Número Secreto</h1>
 
-![Captura de Tela 2024-05-28 às 18 27 55](https://github.com/paulateshima/jogo.numero.secreto/assets/170154538/db958f65-203c-445a-a8e0-1ddcc6082668)
+![Captura de Tela 2024-05-28 às 19 14 00](https://github.com/paulateshima/jogo.numero.secreto/assets/170154538/24e274d6-0de1-4c5b-afa8-81b6742a1fc9)
 
 ## Como Jogar:
 
